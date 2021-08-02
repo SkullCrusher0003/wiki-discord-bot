@@ -1,7 +1,7 @@
 # Wikipedia Search - Discord Bot
 This is an example bot to showcase how a bot can, very easily, search wikipedia and gather summaries intuitively! This bot utilises buttons for navigation, and hence is a lot faster than reactions. Feel free to take inspiration!
 
-![wiki.gif]()
+![wiki.gif](https://github.com/SkullCrusher0003/wiki-discord-bot/blob/main/wiki.gif)
 
 ## Features
 - Top 5 search results for great choice
