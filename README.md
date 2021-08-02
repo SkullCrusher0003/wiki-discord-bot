@@ -16,6 +16,6 @@ This is an example bot to showcase how a bot can, very easily, search wikipedia 
 
 ## Used In
 These are some bots which utilise my wikipedia search command! 
-- Cloud Bot
+- [Cloud Bot](https://dsc.gg/cloud-bot)
 
 If your bot does so, feel free to create a PR and add your bot's name & link above! 
