@@ -1,1 +1,1 @@
-# wiki-discord-bot
+# Wikipedia Search - Discord Bot
